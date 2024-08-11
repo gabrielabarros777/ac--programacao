@@ -1,0 +1,33 @@
+Inteligência Artificial - 
+A inteligência artificial é uma área da ciência da computação que se concentra no desenvolvimento de sistemas e algoritmos que podem realizar tarefas que exigem inteligência humana, como reconhecimento de voz, tomada de decisões e tradução de idiomas. Esses sistemas aprendem a se adaptar com base em dados, utilizando técnicas como aprendizado de máquina, redes neurais e processamento de linguagem natural. 
+
+Referencias -
+https://www.ibm.com/br-pt/topics/artificial-intelligence
+https://www.tableau.com/pt-br/learn/articles/ai
+
+
+Nuvem -
+A nuvem refere-se à entrega de serviços de computação, incluindo servidores, armazenamento, bancos de dados, redes, software e análises,pela internet. Em vez de possuir sua própria infraestrutura de TI, as empresas podem alugar acesso a recursos de computação, pagando apenas pelo que usam. A nuvem oferece escalabilidade, flexibilidade e economia de custos, além de permitir acesso remoto e colaboração.
+
+Referencias -
+https://azure.microsoft.com/pt-br/resources/cloud-computing-dictionary/what-is-cloud-computing
+
+Banco de Dados -
+Um banco de dados é um sistema organizado para armazenar, gerenciar e recuperar dados. Os bancos de dados permitem que grandes volumes de informações sejam acessados de forma eficiente e segura. Bancos de dados são fundamentais para aplicações que requerem o armazenamento e a manipulação de grandes quantidades de informação.
+
+Referencias -
+https://www.oracle.com/br/database/what-is-database/
+https://azure.microsoft.com/pt-br/resources/cloud-computing-dictionary/what-are-databases
+
+Servidor -
+Um servidor é um sistema de computador que fornece dados, recursos ou serviços para outros computadores, através de uma rede. Servidores podem hospedar sites, gerenciar e-mails, armazenar arquivos, ou fornecer bancos de dados para sistemas. Eles são essenciais em ambientes de rede, pois centralizam e distribuem os recursos necessários para várias máquinas.
+
+Referencias -
+https://www.controle.net/faq/o-que-sao-servidores
+
+Algoritmo - 
+Um algoritmo é uma sequência de passos bem definidos que instruem como resolver um problema ou realizar uma tarefa específica. É basicamente uma receita que guia o processo de tomada de decisões ou cálculos, executados de forma sistemática para alcançar um resultado desejado.
+
+Referencias -
+https://tecnoblog.net/responde/o-que-e-algoritmo/
+
