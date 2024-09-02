@@ -1,0 +1,30 @@
+Python é conhecida por sua sintaxe simples e legível, tornando-a ideal para iniciantes. É usada em ciência de dados, automação e desenvolvimento web. Python é interpretada e tem tipagem dinâmica, o que facilita a programação sem se preocupar com tipos de dados fixos.
+Os blocos de código são definidos com ":" e pela indentação
+
+Exemplo: print("Gabriela Barros")
+
+JavaScript é essencial para o desenvolvimento web, sua principal função é criar sites interativos e deixar as paginas web dinâmicas. Também pode ser usado no servidor com Node.js. A tipagem é dinâmica, e a execução geralmente ocorre em navegadores, mas pode ser otimizada com compilação Just-In-Time (JIT) no Node.js.
+Os blocos de código são definidos com {}
+
+Exemplo: console.log("Gabriela Barros");
+
+Java é robusta e portável, com uma sintaxe mais complexa e tipagem estática, o que exige definir os tipos de dados antecipadamente. O código Java é compilado para bytecode e executado na Máquina Virtual Java (JVM), tornando-a ideal para grandes sistemas e aplicativos Android.
+Os blocos de código são definidos com {} e precisa marcar o fim de uma instrução com ;
+
+Exemplo: class GabrielaBarros {
+    public static void main(String[] args) {
+        System.out.println("GabrielaBarros");
+    }
+}
+
+
+
+referências:
+ 
+Guia de JavaScript: o que é e como aprender a linguagem mais popular do mundo? Disponível em: https://www.google.com/aclk?sa=l&ai=DChcSEwi6qbai3qSIAxV0U0gAHbMaAxwYABAAGgJjZQ&co=1&ase=2&gclid=CjwKCAjwxNW2BhAkEiwA24Cm9AuzfOWtFhETmjRARZMMIXkijfECff82nZYiBgzEq2qb8OB0GRBB_xoCVl4QAvD_BwE&ei=Z-_VZqCCPLTB5OUPjdqq0Ao&sig=AOD64_3OOhrRU9DZIKuScnPK0EaqmR7MWg&q&sqi=2&nis=4&adurl&ved=2ahUKEwjg0bGi3qSIAxW0ILkGHQ2tCqoQ0Qx6BAgJEAE Acesso em: 02 de setembro de 2024
+
+O que é e para que serve o Python? Disponível em: https://olhardigital.com.br/2021/10/04/tira-duvidas/o-que-e-para-que-serve-o-python/ Acesso em: 02 de setembro de 2024
+
+O que é Java? [Guia para iniciantes]. Disponível em: https://tecnoblog-net.webpkgcache.com/doc/-/s/tecnoblog.net/responde/o-que-e-java-guia-para-iniciantes/ Acesso em: 02 de setembro de 2024
+
+Linguagens de programação: uma breve introdução contextualizada. Disponível em: <https://www.alura.com.br/artigos/linguagem-programacao>. Acesso em: 02 de setembro de 2024
