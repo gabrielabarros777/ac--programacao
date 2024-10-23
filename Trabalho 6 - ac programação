@@ -1,0 +1,19 @@
+1.	Bubble Sort: O algoritmo ordena uma lista de números, como mostrado abaixo:
+
+def bubble_sort(arr):
+    n = len(arr)
+    for i in range(n):
+        for j in range(0, n-i-1):
+            if arr[j] > arr[j+1]:
+                arr[j], arr[j+1] = arr[j+1], arr[j]
+    return arr
+
+	2.	Impressão de vogais: Este algoritmo imprime apenas as vogais de uma palavra ou frase:
+
+def imprimir_vogais(texto):
+    vogais = "aeiouAEIOU"
+    resultado = ""
+    for char in texto:
+        if char in vogais:
+            resultado += char
+    return resultado
